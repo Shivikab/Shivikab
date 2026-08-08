@@ -21,7 +21,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
 ## 👩‍💻 About Me
 
@@ -31,14 +31,9 @@ I enjoy turning ideas into real-world applications and continuously learning thr
 
 </td>
 
-<td width="40%" align="center">
+<td width="40%" align="center" valign="middle">
 
-### 💡 Currently Exploring
-
-🤖 **AI / ML**  
-🌐 **Software Development**  
-🧠 **Data Structures & Algorithms**  
-✨ **Generative AI**
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=220&section=header&text=BUILD%20%26%20LEARN&fontSize=25&animation=fadeIn" />
 
 </td>
 </tr>
@@ -46,49 +41,51 @@ I enjoy turning ideas into real-world applications and continuously learning thr
 
 ---
 
-## 🚀 What I Do
+# 🚀 What I Do
 
 <table>
 <tr>
-<td align="center" width="20%">
 
-🤖  
+<td align="center" width="20%">
 <br>
+🤖
+<br><br>
 <b>AI / ML</b>
-
+<br><br>
 </td>
 
 <td align="center" width="20%">
-
-🌐  
 <br>
+🌐
+<br><br>
 <b>Web Development</b>
-
+<br><br>
 </td>
 
 <td align="center" width="20%">
-
-🧠  
 <br>
+🧠
+<br><br>
 <b>DSA</b>
-
+<br><br>
 </td>
 
 <td align="center" width="20%">
-
-🔌  
 <br>
+🔌
+<br><br>
 <b>APIs</b>
-
+<br><br>
 </td>
 
 <td align="center" width="20%">
-
-💡  
 <br>
-<b>GenAI</b>
-
+💡
+<br><br>
+<b>Generative AI</b>
+<br><br>
 </td>
+
 </tr>
 </table>
 
@@ -96,57 +93,65 @@ I enjoy turning ideas into real-world applications and continuously learning thr
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js" height="60"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="60"/>
 </p>
 
-`SQL`
+---
 
-### 🤖 AI / ML
+## 🤖 AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white" height="50"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F61?style=for-the-badge&logo=openai&logoColor=white" height="50"/>
 </p>
-
-`Google Gemini API` &nbsp; `Prompt Engineering` &nbsp; `Scikit-learn`  
-`Pandas` &nbsp; `NumPy` &nbsp; `Matplotlib`
-
-### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="45"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="45"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="45"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="45"/>
 </p>
 
-`Streamlit` &nbsp; `REST APIs`
+---
 
-### 🗄️ Databases
+## 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,react" height="60"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="50"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" height="50"/>
 </p>
 
-### 🔧 Tools
+---
+
+## 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="60"/>
 </p>
 
-`Jupyter Notebook`
+---
 
-### 📚 Core Computer Science
+## 🔧 Tools
 
-<p align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="60"/>
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="50"/>
+</p>
 
-🧠 Data Structures & Algorithms  
-&nbsp;&nbsp; • &nbsp;&nbsp;
-🗄️ DBMS  
-&nbsp;&nbsp; • &nbsp;&nbsp;
-💻 OOPs  
-&nbsp;&nbsp; • &nbsp;&nbsp;
-⚙️ Operating Systems
+---
 
+## 📚 Core Computer Science
+
+<p>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2C3E50?style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/DBMS-34495E?style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/OOPs-566573?style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-7F8C8D?style=for-the-badge" height="40"/>
 </p>
 
 ---
@@ -161,11 +166,23 @@ I regularly practice **Data Structures & Algorithms** and focus on developing st
 
 <br>
 
-`Arrays` &nbsp; `Strings` &nbsp; `Linked Lists` &nbsp; `Binary Search`
+<img src="https://img.shields.io/badge/Arrays-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Strings-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linked%20Lists-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Binary%20Search-1F6FEB?style=for-the-badge"/>
 
-`Trees` &nbsp; `Graphs` &nbsp; `Dynamic Programming` &nbsp; `Greedy`
+<br><br>
 
-`Recursion` &nbsp; `Backtracking` &nbsp; `Sliding Window`
+<img src="https://img.shields.io/badge/Trees-238636?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Graphs-238636?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dynamic%20Programming-238636?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Greedy-238636?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Recursion-8957E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backtracking-8957E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sliding%20Window-8957E5?style=for-the-badge"/>
 
 </div>
 
@@ -175,48 +192,64 @@ I regularly practice **Data Structures & Algorithms** and focus on developing st
 
 <table>
 <tr>
-<td>
 
-🏅 **650+ LeetCode Problems**  
-10 badges
+<td width="50%" valign="top">
+
+### 🏅 LeetCode
+
+**650+ Problems Solved**  
+**10 Badges Earned**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏆 Smart India Hackathon
+
+**2024 Semi Finalist**  
+Among **200+ teams**
 
 </td>
 
-<td>
-
-🏆 **Smart India Hackathon 2024**  
-Semi Finalist • 200+ teams
-
-</td>
 </tr>
 
 <tr>
-<td>
 
-🥇 **NPTEL — Developing Soft Skills & Personality**  
-Top 5% Nationwide
+<td width="50%" valign="top">
+
+### 🥇 NPTEL
+
+**Developing Soft Skills & Personality**  
+**Top 5% Nationwide**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💙 Microsoft
+
+**Code; Without Barriers**
 
 </td>
 
-<td>
-
-💙 **Microsoft — Code; Without Barriers**
-
-</td>
 </tr>
 
 <tr>
+
 <td colspan="2" align="center">
 
-☁️ **Microsoft Certified — MLSA Azure AI Fundamentals**
+### ☁️ Microsoft Certified
+
+**MLSA Azure AI Fundamentals**
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -231,15 +264,15 @@ Top 5% Nationwide
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shivikabathla/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://leetcode.com/u/shivika_bathla/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="mailto:work.shivikabathla@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <br><br>
