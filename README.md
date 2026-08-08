@@ -101,7 +101,7 @@ I’m continuously building, learning and improving through projects and problem
 
 🧠 **LeetCode:** [View my profile](https://leetcode.com/u/shivika_bathla/)
 
-💻 **GitHub:** [Explore my repositories](https://github.com/Shivikab)
+💻 **GitHub:** [Explore my repositories](https://github.com/Shivikab?tab=repositories)
 
 ---
 
