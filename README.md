@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Shivika Bathla
 
 ### 🎓 B.Tech CSE @ IGDTUW
-### 🌐 AI/ML • 🤖 Software Development • 🧠 DSA
+### 🌐 AI/ML • 🤖 Development • 🧠 DSA
 
 <p>
   <a href="https://www.linkedin.com/in/shivikabathla/">💼 LinkedIn</a>
