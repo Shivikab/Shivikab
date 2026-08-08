@@ -21,7 +21,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="100%" valign="top">
 
 ## 👩‍💻 About Me
 
@@ -31,11 +31,6 @@ I enjoy turning ideas into real-world applications and continuously learning thr
 
 </td>
 
-<td width="40%" align="center" valign="middle">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=220&section=header&text=BUILD%20%26%20LEARN&fontSize=25&animation=fadeIn" />
-
-</td>
 </tr>
 </table>
 
@@ -171,14 +166,14 @@ I regularly practice **Data Structures & Algorithms** and focus on developing st
 <img src="https://img.shields.io/badge/Linked%20Lists-1F6FEB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Binary%20Search-1F6FEB?style=for-the-badge"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Trees-238636?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Graphs-238636?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Dynamic%20Programming-238636?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Greedy-238636?style=for-the-badge"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Recursion-8957E5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Backtracking-8957E5?style=for-the-badge"/>
